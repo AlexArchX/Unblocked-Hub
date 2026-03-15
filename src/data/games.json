@@ -1,0 +1,44 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "url": "https://play2048.co/",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2048_logo.svg/512px-2048_logo.svg.png"
+  },
+  {
+    "id": "flappy-bird",
+    "title": "Flappy Bird",
+    "description": "Tap to flap your wings and avoid the pipes.",
+    "url": "https://flappybird.io/",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/0a/Flappy_Bird_icon.png"
+  },
+  {
+    "id": "slither-io",
+    "title": "Slither.io",
+    "description": "Eat glowing orbs and grow in Slither.io!",
+    "url": "https://slither.io/",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Slither.io_logo.png/220px-Slither.io_logo.png"
+  },
+  {
+    "id": "krunker",
+    "title": "Krunker.io",
+    "description": "A fast-paced pixelated first-person shooter.",
+    "url": "https://krunker.io/",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Krunker_logo.png/320px-Krunker_logo.png"
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris",
+    "description": "The classic block-stacking puzzle game.",
+    "url": "https://tetris.com/play-tetris",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Tetrominoes_IJLO_STZ_Clear.svg/512px-Tetrominoes_IJLO_STZ_Clear.svg.png"
+  },
+  {
+    "id": "pacman",
+    "title": "Pac-Man",
+    "description": "Eat the dots and avoid the ghosts!",
+    "url": "https://freepacman.org/",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/59/Pac-man.png"
+  }
+]
